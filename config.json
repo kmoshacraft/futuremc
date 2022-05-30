@@ -1,0 +1,6 @@
+{
+    "CLIENT_ID": "980549893401759754",
+    "CLIENT_REDIRECT": "/auth/redirect",
+    "CLIENT_URL": "https://futuremc.voxa-life.repl.co",
+    "CLIENT_PORT": 3000
+}
